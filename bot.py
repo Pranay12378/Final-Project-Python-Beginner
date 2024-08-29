@@ -23,6 +23,6 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = MyClient(intents=intents)
-client.run('CODEHRECODEHERECODEERETOKENHERE')
+client.run('CODEHRECODEHERECODEERETOKENHERE')  <- #TOKEN INSIDE HERE
 
 #! I have cleared the token for security purposes however the bot does work.
